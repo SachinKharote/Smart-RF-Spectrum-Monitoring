@@ -1,0 +1,4 @@
+strategy,detection_rate,false_alarm_rate,missed_signals,average_intercept_time
+Adaptive,90.14,2.79,14,0.555
+Sequential,74.0,8.0,26,0.599
+Random,56.25,12.38,42,0.6
