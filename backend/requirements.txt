@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+pytest
+httpx
+psycopg2-binary
+python-dotenv
